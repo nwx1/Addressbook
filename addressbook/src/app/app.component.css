@@ -1,0 +1,23 @@
+.topnav
+{
+    background-color: blue;
+    height: 50px;
+
+    a
+    {
+        color: white;
+        text-decoration: none;
+        padding: 14px 16px;
+        float: left;
+    }
+}
+
+.main
+{
+    margin-left: 10px;
+}
+
+#mytable
+{
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+<div class="topnav">
+  <a>AddressBook</a>
+</div>
+<div class="main">
+  <h2>UI Table:</h2>
+  <dx-data-grid id="mytable" [dataSource]="data">
+    <dxo-editing
+        [allowUpdating]="true"
+        [allowAdding]="true"
+        [allowDeleting]="true"
+        mode="popup">
+    </dxo-editing>
+    <dxi-column dataField="id" [allowEditing]="false"></dxi-column>
+    <dxi-column dataField="name"></dxi-column>
+    <dxi-column dataField="address"></dxi-column>
+    <dxi-column dataField="contact"></dxi-column>
+    <dxo-search-panel [visible]="true"></dxo-search-panel>
+    <dxo-toolbar>
+      <dxi-item name="addRowButton" showText="always"></dxi-item>
+      <dxi-item name="searchPanel"></dxi-item>
+    </dxo-toolbar>
+  </dx-data-grid>
+</div>
