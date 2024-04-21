@@ -10,26 +10,16 @@ Steps to Create the Project
 
 4) Import the datagrid module to angular and paste the datagrid code as below:
 
-![alt text](image.png)
-<center>*Figure 1 Import Module*</center>
+![alt text](photos/importmodule.png)
+<center>Figure 1 Import Module</center>
 <br/>
 
-![alt text](image-1.png)
-<center>*Figure 2 DataGrid Module*</center>
+![alt text](photos/datagrid.png)
+<center>Figure 2 DataGrid</center>
 <br/>
 
 5) Run ng serve command to launch the application and type localhost:4200 on browser.
 
-![alt text](image-2.png)
-<center>*Figure 3 AddressBook UI*</center>
+![alt text](photos/ui.png)
+<center>Figure 3 Address Book UI</center>
 <br/>
-
-**CRUD Operations**
-
-1) Adding:
-
-2) Editing:
-
-3) Deleting:
-
-4) Global Search:
