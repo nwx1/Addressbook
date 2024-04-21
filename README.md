@@ -13,13 +13,16 @@ Steps to Create the Project
 ![alt text](photos/importmodule.png)
 <center>Figure 1 Import Module</center>
 <br/>
+<br/>
 
 ![alt text](photos/datagrid.png)
 <center>Figure 2 DataGrid</center>
+<br/>
 <br/>
 
 5) Run ng serve command to launch the application and type localhost:4200 on browser.
 
 ![alt text](photos/ui.png)
 <center>Figure 3 Address Book UI</center>
+<br/>
 <br/>
